@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U2",1," LCD 16 x 2"
+"R1",1,"220 Ω Resistor"
+"GAS1",1," Gas Sensor"
+"R2",1,"4.7 kΩ Resistor"
+"Rpot4",1,"10 kΩ Potentiometer"
+"PIEZO1",1," Piezo"
+"R3",1,"1 kΩ Resistor"
